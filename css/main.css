@@ -571,7 +571,7 @@ header nav .form i {
 /* start stats */
 
 .stats {
-    background-image: url(/images/stats.png);
+    background-image: url(../images/stats.png);
     background-size: cover;
     position: relative;
     padding-top: 100px;
