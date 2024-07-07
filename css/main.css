@@ -1020,6 +1020,7 @@ header nav .form i {
     margin-left: auto;
     text-transform: uppercase;
     cursor: pointer;
+    margin-bottom: 50px;
 }
 
 .contact .content .info h4 {
